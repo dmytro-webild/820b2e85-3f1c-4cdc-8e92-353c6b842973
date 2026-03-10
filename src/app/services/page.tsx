@@ -46,75 +46,35 @@ export default function ServicesPage() {
           tagAnimation="slide-up"
           features={[
             {
-              id: "general-detail",
-              label: "General Dentistry",
-              title: "Preventive & Restorative Care",
-              items: [
-                "Routine exams and cleanings",
-                "Digital X-ray diagnostics",
-                "Cavity fillings with composite materials",
-                "Scaling and root planing",
-                "Personalized oral hygiene guidance",
-              ],
+              id: "general-detail",              label: "General Dentistry",              title: "Preventive & Restorative Care",              items: [
+                "Routine exams and cleanings",                "Digital X-ray diagnostics",                "Cavity fillings with composite materials",                "Scaling and root planing",                "Personalized oral hygiene guidance"],
               buttons: [
                 {
-                  text: "Schedule Now",
-                  href: "contact",
-                },
+                  text: "Schedule Now",                  href: "contact"},
               ],
             },
             {
-              id: "cosmetic-detail",
-              label: "Cosmetic Dentistry",
-              title: "Smile Enhancement & Aesthetics",
-              items: [
-                "Professional teeth whitening",
-                "Porcelain veneers",
-                "Smile design consultations",
-                "Bonding and contouring",
-                "Gum reshaping",
-              ],
+              id: "cosmetic-detail",              label: "Cosmetic Dentistry",              title: "Smile Enhancement & Aesthetics",              items: [
+                "Professional teeth whitening",                "Porcelain veneers",                "Smile design consultations",                "Bonding and contouring",                "Gum reshaping"],
               buttons: [
                 {
-                  text: "Explore Options",
-                  href: "contact",
-                },
+                  text: "Explore Options",                  href: "contact"},
               ],
             },
             {
-              id: "advanced-detail",
-              label: "Advanced Procedures",
-              title: "Complex Treatments & Solutions",
-              items: [
-                "Root canal therapy",
-                "Dental implants",
-                "Crown and bridge work",
-                "Wisdom tooth extraction",
-                "Surgical consultations",
-              ],
+              id: "advanced-detail",              label: "Advanced Procedures",              title: "Complex Treatments & Solutions",              items: [
+                "Root canal therapy",                "Dental implants",                "Crown and bridge work",                "Wisdom tooth extraction",                "Surgical consultations"],
               buttons: [
                 {
-                  text: "Learn More",
-                  href: "contact",
-                },
+                  text: "Learn More",                  href: "contact"},
               ],
             },
             {
-              id: "emergency-detail",
-              label: "Emergency Dentistry",
-              title: "Urgent Care Available 24/7",
-              items: [
-                "Same-day emergency appointments",
-                "Pain management and relief",
-                "Trauma and injury treatment",
-                "Acute infection management",
-                "24/7 emergency phone line",
-              ],
+              id: "emergency-detail",              label: "Emergency Dentistry",              title: "Urgent Care Available 24/7",              items: [
+                "Same-day emergency appointments",                "Pain management and relief",                "Trauma and injury treatment",                "Acute infection management",                "24/7 emergency phone line"],
               buttons: [
                 {
-                  text: "Call Emergency Line",
-                  href: "tel:+1-800-SMILE-01",
-                },
+                  text: "Call Emergency Line",                  href: "tel:+1-800-SMILE-01"},
               ],
             },
           ]}
@@ -132,35 +92,17 @@ export default function ServicesPage() {
           sideDescription="Learn more about our dental procedures, technology, and what to expect."
           faqs={[
             {
-              id: "s1",
-              title: "Are cosmetic procedures covered by insurance?",
-              content: "Most cosmetic procedures are not covered by standard dental insurance. However, some restorative cosmetic treatments may be partially covered. We recommend checking with your insurance provider and our team can help you understand your coverage.",
-            },
+              id: "s1",              title: "Are cosmetic procedures covered by insurance?",              content: "Most cosmetic procedures are not covered by standard dental insurance. However, some restorative cosmetic treatments may be partially covered. We recommend checking with your insurance provider and our team can help you understand your coverage."},
             {
-              id: "s2",
-              title: "How long do dental implants last?",
-              content: "With proper care and maintenance, dental implants can last 20+ years or a lifetime. They're the most durable tooth replacement option available. Regular cleanings and good oral hygiene are essential for long-term success.",
-            },
+              id: "s2",              title: "How long do dental implants last?",              content: "With proper care and maintenance, dental implants can last 20+ years or a lifetime. They're the most durable tooth replacement option available. Regular cleanings and good oral hygiene are essential for long-term success."},
             {
-              id: "s3",
-              title: "Is teeth whitening safe?",
-              content: "Professional teeth whitening at our clinic is safe and effective. We use dental-grade whitening solutions with minimal sensitivity. Results typically last 6-12 months depending on lifestyle and diet.",
-            },
+              id: "s3",              title: "Is teeth whitening safe?",              content: "Professional teeth whitening at our clinic is safe and effective. We use dental-grade whitening solutions with minimal sensitivity. Results typically last 6-12 months depending on lifestyle and diet."},
             {
-              id: "s4",
-              title: "What should I do if I have a dental emergency?",
-              content: "Call our emergency line immediately at +1-800-SMILE-01. We maintain same-day appointment availability for dental emergencies. For severe trauma, visit your nearest emergency room first if needed.",
-            },
+              id: "s4",              title: "What should I do if I have a dental emergency?",              content: "Call our emergency line immediately at +1-800-SMILE-01. We maintain same-day appointment availability for dental emergencies. For severe trauma, visit your nearest emergency room first if needed."},
             {
-              id: "s5",
-              title: "How do I prepare for a root canal?",
-              content: "No special preparation is needed. Continue taking prescribed medications, eat a light meal before the appointment, and wear comfortable clothing. We'll handle the rest. Most root canals are completed in one or two visits.",
-            },
+              id: "s5",              title: "How do I prepare for a root canal?",              content: "No special preparation is needed. Continue taking prescribed medications, eat a light meal before the appointment, and wear comfortable clothing. We'll handle the rest. Most root canals are completed in one or two visits."},
             {
-              id: "s6",
-              title: "What are the benefits of dental implants?",
-              content: "Implants restore function, preserve bone, improve appearance, and feel like natural teeth. Unlike bridges, implants don't require grinding down adjacent teeth. They're also easier to maintain than other tooth replacement options.",
-            },
+              id: "s6",              title: "What are the benefits of dental implants?",              content: "Implants restore function, preserve bone, improve appearance, and feel like natural teeth. Unlike bridges, implants don't require grinding down adjacent teeth. They're also easier to maintain than other tooth replacement options."},
           ]}
           textPosition="left"
           faqsAnimation="slide-up"
@@ -178,39 +120,25 @@ export default function ServicesPage() {
           description="Contact us today to discuss which services are right for you. Our team will help create a personalized treatment plan that meets your goals and budget."
           inputs={[
             {
-              name: "name",
-              type: "text",
-              placeholder: "Full Name",
-              required: true,
+              name: "name",              type: "text",              placeholder: "Full Name",              required: true,
             },
             {
-              name: "email",
-              type: "email",
-              placeholder: "Email Address",
-              required: true,
+              name: "email",              type: "email",              placeholder: "Email Address",              required: true,
             },
             {
-              name: "phone",
-              type: "tel",
-              placeholder: "Phone Number",
-              required: true,
+              name: "phone",              type: "tel",              placeholder: "Phone Number",              required: true,
             },
             {
-              name: "serviceInterest",
-              type: "text",
-              placeholder: "Services of Interest",
-              required: false,
+              name: "serviceInterest",              type: "text",              placeholder: "Services of Interest",              required: false,
             },
           ]}
           textarea={{
-            name: "message",
-            placeholder: "Tell us about your specific needs or concerns.",
-            rows: 4,
+            name: "message",            placeholder: "Tell us about your specific needs or concerns.",            rows: 4,
             required: false,
           }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/close-up-dentist-instruments_23-2151053265.jpg?_wi=4"
-          imageAlt: "Dental equipment and technology"
+          imageSrc="http://img.b2bpic.net/free-photo/close-up-dentist-instruments_23-2151053265.jpg"
+          imageAlt="Dental equipment and technology"
           mediaAnimation="opacity"
           mediaPosition="right"
           buttonText="Request Consultation"
@@ -226,24 +154,16 @@ export default function ServicesPage() {
           socialLinks={[
             {
               icon: Facebook,
-              href: "https://facebook.com/smiledentalcenter",
-              ariaLabel: "Visit our Facebook page",
-            },
+              href: "https://facebook.com/smiledentalcenter",              ariaLabel: "Visit our Facebook page"},
             {
               icon: Instagram,
-              href: "https://instagram.com/smiledentalcenter",
-              ariaLabel: "Follow us on Instagram",
-            },
+              href: "https://instagram.com/smiledentalcenter",              ariaLabel: "Follow us on Instagram"},
             {
               icon: Linkedin,
-              href: "https://linkedin.com/company/smile-dental-center",
-              ariaLabel: "Connect with us on LinkedIn",
-            },
+              href: "https://linkedin.com/company/smile-dental-center",              ariaLabel: "Connect with us on LinkedIn"},
             {
               icon: Globe,
-              href: "https://smiledentalcenter.com",
-              ariaLabel: "Visit our website",
-            },
+              href: "https://smiledentalcenter.com",              ariaLabel: "Visit our website"},
           ]}
           ariaLabel="Site footer with contact and social information"
         />
