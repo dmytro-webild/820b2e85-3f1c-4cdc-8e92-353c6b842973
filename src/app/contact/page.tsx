@@ -72,7 +72,7 @@ export default function ContactPage() {
             required: false,
           }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-psd/panorama-bright-reception-waiting-room-clinic-with-desk-generative-ai_587448-2075.jpg"
+          imageSrc="http://img.b2bpic.net/free-psd/panorama-bright-reception-waiting-room-clinic-with-desk-generative-ai_587448-2075.jpg?_wi=3"
           imageAlt="modern dental clinic interior professional"
           mediaAnimation="opacity"
           mediaPosition="right"
