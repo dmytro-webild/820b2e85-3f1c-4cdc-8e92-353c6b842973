@@ -209,7 +209,7 @@ export default function ServicesPage() {
             required: false,
           }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/close-up-dentist-instruments_23-2151053265.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/close-up-dentist-instruments_23-2151053265.jpg?_wi=4"
           imageAlt: "Dental equipment and technology"
           mediaAnimation="opacity"
           mediaPosition="right"
