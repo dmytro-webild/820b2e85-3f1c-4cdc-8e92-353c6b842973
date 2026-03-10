@@ -150,7 +150,7 @@ export default function AboutPage() {
               tag: "General Dentistry",
               avatarSrc: "http://img.b2bpic.net/free-photo/smiling-woman_23-2147615403.jpg",
               avatarAlt: "Sarah Chen",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-dentist-instruments_23-2151053265.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-dentist-instruments_23-2151053265.jpg?_wi=5",
               imageAlt: "Modern dental treatment room",
             },
             {
@@ -162,7 +162,7 @@ export default function AboutPage() {
               tag: "Preventive Care",
               avatarSrc: "http://img.b2bpic.net/free-photo/side-view-business-man-city_23-2148479568.jpg",
               avatarAlt: "Michael Thompson",
-              imageSrc: "http://img.b2bpic.net/free-photo/young-happy-woman-talking-waitress-cafe_637285-8070.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-happy-woman-talking-waitress-cafe_637285-8070.jpg?_wi=4",
               imageAlt: "Patient smiling confidently",
             },
             {
@@ -174,7 +174,7 @@ export default function AboutPage() {
               tag: "Anxiety Management",
               avatarSrc: "http://img.b2bpic.net/free-photo/joyful-business-woman-with-coffee-cup_23-2148095746.jpg",
               avatarAlt: "Emily Rodriguez",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-medical-team-ready-work_23-2149152536.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-medical-team-ready-work_23-2149152536.jpg?_wi=4",
               imageAlt: "Dental team working together",
             },
             {
@@ -186,7 +186,7 @@ export default function AboutPage() {
               tag: "Advanced Treatment",
               avatarSrc: "http://img.b2bpic.net/free-photo/middle-aged-caucasian-man-taking-photos-street-with-professional-digital-camera_1098-17634.jpg",
               avatarAlt: "David Kim",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-dentist-instruments_23-2151053265.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-dentist-instruments_23-2151053265.jpg?_wi=6",
               imageAlt: "Modern dental technology",
             },
             {
@@ -198,7 +198,7 @@ export default function AboutPage() {
               tag: "Cosmetic Dentistry",
               avatarSrc: "http://img.b2bpic.net/free-photo/shot-beautiful-young-businesswoman-wearing-blue-chiffon-shirt-while-standing-with-folded-arms-gray-marble-wall_158595-6769.jpg",
               avatarAlt: "Jessica Park",
-              imageSrc: "http://img.b2bpic.net/free-photo/young-happy-woman-talking-waitress-cafe_637285-8070.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-happy-woman-talking-waitress-cafe_637285-8070.jpg?_wi=5",
               imageAlt: "Beautiful confident smile",
             },
             {
@@ -210,7 +210,7 @@ export default function AboutPage() {
               tag: "Senior Care",
               avatarSrc: "http://img.b2bpic.net/free-photo/side-view-smiley-business-woman_23-2149442309.jpg",
               avatarAlt: "Robert Wilson",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-medical-team-ready-work_23-2149152536.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-medical-team-ready-work_23-2149152536.jpg?_wi=5",
               imageAlt: "Professional dental team",
             },
           ]}
